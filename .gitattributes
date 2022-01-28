@@ -1,0 +1,2 @@
+/Win32/x86/chrome.dll filter=lfs diff=lfs merge=lfs -text
+/Win32/x64/chrome.dll filter=lfs diff=lfs merge=lfs -text
